@@ -1,2 +1,2 @@
 # pizza
-thinkful practice of creating a repository
+Thinkful practice, HTML/CSS demo page
